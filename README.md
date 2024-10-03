@@ -10,8 +10,8 @@ In this project, I created exposed honeypot VMs to simulate vulnerable machines 
 - Microsoft Sentinel (Azure cloud-native SIEM)
 - Microsoft Defender for Cloud
 - Kusto Query Language (KQL)
-- PowerShell
-- Bash
+- PowerShell (For gathering attack logs)
+- Bash (For gathering attack logs)
 
 ## Methodology for Incident Response
 [NIST SP 800-61 Revision 2](https://www.nist.gov/privacy-framework/nist-sp-800-61) for Incident Handling Guide
